@@ -1,0 +1,754 @@
+{
+    "abs": {
+        "menu": {
+            "label": "minecraft:abs",
+            "description": null,
+            "value": "minecraft:abs",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "add": {
+        "menu": {
+            "label": "minecraft:add",
+            "description": null,
+            "value": "minecraft:add",
+            "emoji": null
+        },
+        "properties": {
+            "argument1": {
+                "name": "argument1",
+                "placeholder": "First argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "argument2": {
+                "name": "argument2",
+                "placeholder": "Second argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "beardifier": {
+        "menu": {
+            "label": "minecraft:beardifier",
+            "description": null,
+            "value": "minecraft:beardifier",
+            "emoji": null
+        },
+        "properties": {
+            "takes": "<:ender_eye:1165701513675546806>"
+        },
+        "constant": true
+    },
+    "blend_alpha": {
+        "menu": {
+            "label": "minecraft:blend_alpha",
+            "description": null,
+            "value": "minecraft:blend_alpha",
+            "emoji": null
+        },
+        "properties": {
+            "takes": "<:ender_eye:1165701513675546806>"
+        },
+        "constant": true
+    },
+    "blend_density": {
+        "menu": {
+            "label": "minecraft:blend_density",
+            "description": null,
+            "value": "minecraft:blend_density",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "blend_offset": {
+        "menu": {
+            "label": "minecraft:blend_offset",
+            "description": null,
+            "value": "minecraft:blend_offset",
+            "emoji": null
+        },
+        "properties": {
+            "takes": "<:ender_eye:1165701513675546806>"
+        },
+        "constant": true
+    },
+    "cache_2d": {
+        "menu": {
+            "label": "minecraft:cache_2d",
+            "description": null,
+            "value": "minecraft:cache_2d",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "cache_all_in_cell": {
+        "menu": {
+            "label": "minecraft:cache_all_in_cell",
+            "description": null,
+            "value": "minecraft:cache_all_in_cell",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "cache_once": {
+        "menu": {
+            "label": "minecraft:cache_once",
+            "description": null,
+            "value": "minecraft:cache_once",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "clamp": {
+        "menu": {
+            "label": "minecraft:clamp",
+            "description": null,
+            "value": "minecraft:clamp",
+            "emoji": null
+        },
+        "properties": {
+            "input": {
+                "name": "input",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "min": {
+                "name": "min",
+                "placeholder": "Lower bound value",
+                "required": false,
+                "length": 1000,
+                "default": "-1.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "max": {
+                "name": "max",
+                "placeholder": "Upper bound value",
+                "required": false,
+                "length": 1000,
+                "default": "1.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            }
+        }
+    },
+    "constant": {
+        "menu": {
+            "label": "minecraft:constant",
+            "description": null,
+            "value": "minecraft:constant",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Output value",
+                "required": false,
+                "length": 1000,
+                "default": "0.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            }
+        }
+    },
+    "cube": {
+        "menu": {
+            "label": "minecraft:cube",
+            "description": null,
+            "value": "minecraft:cube",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "end_islands": {
+        "menu": {
+            "label": "minecraft:end_islands",
+            "description": null,
+            "value": "minecraft:end_islands",
+            "emoji": null
+        },
+        "properties": {
+            "takes": "<:ender_eye:1165701513675546806>"
+        },
+        "constant": true
+    },
+    "flat_cache": {
+        "menu": {
+            "label": "minecraft:flat_cache",
+            "description": null,
+            "value": "minecraft:flat_cache",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "half_negative": {
+        "menu": {
+            "label": "minecraft:half_negative",
+            "description": null,
+            "value": "minecraft:half_negative",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "interpolated": {
+        "menu": {
+            "label": "minecraft:interpolated",
+            "description": null,
+            "value": "minecraft:interpolated",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "max": {
+        "menu": {
+            "label": "minecraft:max",
+            "description": null,
+            "value": "minecraft:max",
+            "emoji": null
+        },
+        "properties": {
+            "argument1": {
+                "name": "argument1",
+                "placeholder": "First argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "argument2": {
+                "name": "argument2",
+                "placeholder": "Second argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "min": {
+        "menu": {
+            "label": "minecraft:min",
+            "description": null,
+            "value": "minecraft:min",
+            "emoji": null
+        },
+        "properties": {
+            "argument1": {
+                "name": "argument1",
+                "placeholder": "First argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "argument2": {
+                "name": "argument2",
+                "placeholder": "Second argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "mul": {
+        "menu": {
+            "label": "minecraft:mul",
+            "description": null,
+            "value": "minecraft:mul",
+            "emoji": null
+        },
+        "properties": {
+            "argument1": {
+                "name": "argument1",
+                "placeholder": "First argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "argument2": {
+                "name": "argument2",
+                "placeholder": "Second argument",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "noise": {
+        "menu": {
+            "label": "minecraft:noise",
+            "description": null,
+            "value": "minecraft:noise",
+            "emoji": null
+        },
+        "properties": {
+            "noise": {
+                "name": "noise",
+                "placeholder": "Input noise",
+                "required": false,
+                "length": 1000,
+                "default": "minecraft:cave_entrance",
+                "takes": "<:blurple_tools:1167609249610862733>"
+            },
+            "xz_scale": {
+                "name": "xz_scale",
+                "placeholder": "Input scale value",
+                "required": false,
+                "length": 1000,
+                "default": "0.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "y_scale": {
+                "name": "y_scale",
+                "placeholder": "Input scale value",
+                "required": false,
+                "length": 1000,
+                "default": "0.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            }
+        }
+    },
+    "old_blended_noise": {
+        "menu": {
+            "label": "minecraft:old_blended_noise",
+            "description": null,
+            "value": "minecraft:old_blended_noise",
+            "emoji": null
+        },
+        "properties": {
+            "xz_scale": {
+                "name": "xz_scale",
+                "placeholder": "Input scale value (0.001 to 1000.0)",
+                "required": false,
+                "length": 1000,
+                "default": "0.001",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "y_scale": {
+                "name": "y_scale",
+                "placeholder": "Input scale value (0.001 to 1000.0)",
+                "required": false,
+                "length": 1000,
+                "default": "0.001",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "xz_factor": {
+                "name": "xz_factor",
+                "placeholder": "Input value (0.001 to 1000.0)",
+                "required": false,
+                "length": 1000,
+                "default": "0.001",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "y_factor": {
+                "name": "y_factor",
+                "placeholder": "Input value (0.001 to 1000.0)",
+                "required": false,
+                "length": 1000,
+                "default": "0.001",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "smear_scale_multiplier": {
+                "name": "smear_scale_multiplier",
+                "placeholder": "Input value (1.0 to 8.0)",
+                "required": false,
+                "length": 1000,
+                "default": "1.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            }
+        }
+    },
+    "quarter_negative": {
+        "menu": {
+            "label": "minecraft:quarter_negative",
+            "description": null,
+            "value": "minecraft:quarter_negative",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "range_choice": {
+        "menu": {
+            "label": "minecraft:range_choice",
+            "description": null,
+            "value": "minecraft:range_choice",
+            "emoji": null
+        },
+        "properties": {
+            "input": {
+                "name": "input",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "min_inclusive": {
+                "name": "min_inclusive",
+                "placeholder": "Lower bound value",
+                "required": false,
+                "length": 1000,
+                "default": "0.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "max_inclusive": {
+                "name": "max_inclusive",
+                "placeholder": "Upper bound value",
+                "required": false,
+                "length": 1000,
+                "default": "1.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "when_in_range": {
+                "name": "when_in_range",
+                "placeholder": "Output value 1",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "when_out_of_range": {
+                "name": "when_out_of_range",
+                "placeholder": "Output value 2",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "shift": {
+        "menu": {
+            "label": "minecraft:shift",
+            "description": null,
+            "value": "minecraft:shift",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input noise",
+                "required": false,
+                "length": 1000,
+                "default": "minecraft:cave_entrance",
+                "takes": "<:blurple_tools:1167609249610862733>"
+            }
+        }
+    },
+    "shift_a": {
+        "menu": {
+            "label": "minecraft:shift_a",
+            "description": null,
+            "value": "minecraft:shift_a",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input noise",
+                "required": false,
+                "length": 1000,
+                "default": "minecraft:cave_entrance",
+                "takes": "<:blurple_tools:1167609249610862733>"
+            }
+        }
+    },
+    "shift_b": {
+        "menu": {
+            "label": "minecraft:shift_b",
+            "description": null,
+            "value": "minecraft:shift_b",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input noise",
+                "required": false,
+                "length": 1000,
+                "default": "minecraft:cave_entrance",
+                "takes": "<:blurple_tools:1167609249610862733>"
+            }
+        }
+    },
+    "shifted_noise": {
+        "menu": {
+            "label": "minecraft:shifted_noise",
+            "description": null,
+            "value": "minecraft:shifted_noise",
+            "emoji": null
+        },
+        "properties": {
+            "noise": {
+                "name": "noise",
+                "placeholder": "Input noise",
+                "required": false,
+                "length": 1000,
+                "default": "minecraft:cave_entrance",
+                "takes": "<:blurple_tools:1167609249610862733>"
+            },
+            "xz/y_scale": {
+                "name": "xz/y_scale",
+                "placeholder": "Seperate with whitespace",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "shift_x": {
+                "name": "shift_x",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "shift_y": {
+                "name": "shift_y",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            },
+            "shift_z": {
+                "name": "shift_z",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "spline": {
+        "menu": {
+            "label": "minecraft:spline",
+            "description": null,
+            "value": "minecraft:spline",
+            "emoji": null
+        },
+        "properties": {
+            "coordinate": {
+                "name": "coordinate",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "square": {
+        "menu": {
+            "label": "minecraft:square",
+            "description": null,
+            "value": "minecraft:square",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "squeeze": {
+        "menu": {
+            "label": "minecraft:squeeze",
+            "description": null,
+            "value": "minecraft:squeeze",
+            "emoji": null
+        },
+        "properties": {
+            "argument": {
+                "name": "argument",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "weird_scaled_sampler": {
+        "menu": {
+            "label": "minecraft:weird_scaled_sampler",
+            "description": null,
+            "value": "minecraft:weird_scaled_sampler",
+            "emoji": null
+        },
+        "properties": {
+            "rarity_value_mapper": {
+                "name": "rarity_value_mapper",
+                "placeholder": "Input type",
+                "required": false,
+                "length": 1000,
+                "default": "type_1",
+                "takes": "<:typescript_icon:1163975677771526196>"
+            },
+            "noise": {
+                "name": "noise",
+                "placeholder": "Input noise",
+                "required": false,
+                "length": 1000,
+                "default": "minecraft:cave_entrance",
+                "takes": "<:blurple_tools:1167609249610862733>"
+            },
+            "input": {
+                "name": "input",
+                "placeholder": "Input value",
+                "required": false,
+                "length": 1000,
+                "default": null,
+                "takes": "<:density_function:1168178623363153960>"
+            }
+        }
+    },
+    "y_clamped_gradient": {
+        "menu": {
+            "label": "minecraft:y_clamped_gradient",
+            "description": null,
+            "value": "y_clamped_gradient",
+            "emoji": null
+        },
+        "properties": {
+            "from_y": {
+                "name": "from_y",
+                "placeholder": "Lower bound value (-4064 to 4062)",
+                "required": false,
+                "length": 1000,
+                "default": "0.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "to_y": {
+                "name": "to_y",
+                "placeholder": "Upper bound value (-4064 to 4062)",
+                "required": false,
+                "length": 1000,
+                "default": "1.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "from_value": {
+                "name": "from_value",
+                "placeholder": "Output value 1",
+                "required": false,
+                "length": 1000,
+                "default": "0.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            },
+            "to_value": {
+                "name": "to_value",
+                "placeholder": "Output value 2",
+                "required": false,
+                "length": 1000,
+                "default": "1.0",
+                "takes": "<:ender_eye:1165701513675546806>"
+            }
+        }
+    }
+}
