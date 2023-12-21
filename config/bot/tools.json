@@ -1,0 +1,26 @@
+{
+    "df_editor": {
+        "name": "Density Function Editor",
+        "id": "df_editor",
+        "enabled": true,
+        "beta": true
+    },
+    "spline_analyzer": {
+        "name": "Spline Viewer/Analyzer",
+        "id": "spline_viewer",
+        "enabled": false,
+        "beta": true
+    },
+    "noise_editor": {
+        "name": "Noise Editor/Analyzer",
+        "id": "noise_editor",
+        "enabled": false,
+        "beta": true
+    },
+    "severe_blunder": {
+        "name": "Severe Blunder",
+        "id": "severe_blunder",
+        "enabled": false,
+        "beta": true
+    }
+}

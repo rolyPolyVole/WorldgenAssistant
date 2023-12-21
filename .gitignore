@@ -1,0 +1,17 @@
+# Outputs
+dist/
+
+# Testing
+testing.js
+
+# Node modules
+node_modules/
+
+# Configs
+package-lock.json
+tsconfig.json
+.env
+
+# Database
+src/database/*
+!src/database/manager.ts
